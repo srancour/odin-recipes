@@ -5,4 +5,6 @@ This is a basic recipe website that is meant to practice the HTML knowledge I ha
 
 Image for southwestern lasagna from [annieseats](https://www.flickr.com/photos/27129991@N03/) on Flikr.
 
-Image for Lattice Top Chicken from [Click Americana](https://clickamericana.com/recipes/retro-dinner-recipes/lattice-top-chicken-bake-1984).
+Image for Lattice Top Chicken from [Click Americana](https://clickamericana.com).
+
+Image for oreo truffles from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page).
